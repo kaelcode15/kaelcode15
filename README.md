@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Kael Code 👨‍💻🔥</h1>
 
-<!--
-**kaelcode15/kaelcode15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>
+    Motoboy em transição, dev em construção.<br>
+    Codando minha nova vida — uma linha por vez. 🐦‍🔥
+  </em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 💼 Estudante de *Sistemas de Informação* e *Análise e Desenvolvimento de Sistemas*
+- 🔥 Em transição de carreira — do corre pra programação
+- 🌱 Atualmente estudando -------------------------------------------
+- 📚 Apaixonado por tecnologia, liberdade e renascimento digital
+- 🧠 Sempre aprendendo, sempre criando
+
+---
+
+### 📈 Minhas metas
+
+- 🔲 Terminar portfólio pessoal kaelcoode.dev
+- 🔲 Conquistar minha primeira vaga de dev júnior
+- 🔲 Criar um projeto real pra resolver um problema real
+- 🔲 Ajudar outras pessoas que estão renascendo como eu
+
+---
+
+### 📫 Onde me encontrar
+
+[![LinkedIn]
+📧 kaelcode15@gmail.com
+
+---
+
+<p align="center">
+  <em>“Não nasci no código, mas vou morrer deployando.” 🚀</em>
+</p>
